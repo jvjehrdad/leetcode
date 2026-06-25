@@ -14,3 +14,4 @@ My LeetCode solutions in JavaScript.
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy | [merge-two-sorted-lists.js](merge-two-sorted-lists.js) |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy | [remove-duplicates-from-sorted-array.js](remove-duplicates-from-sorted-array.js) |
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | Easy | [remove-element.js](remove-element.js) |
+| 28 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | Easy | [find-the-index-of-the-first-occurrence-in-a-string.js](find-the-index-of-the-first-occurrence-in-a-string.js) |
