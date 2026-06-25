@@ -11,3 +11,4 @@ My LeetCode solutions in JavaScript.
 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | Easy | [Roman-to-Integer.js](Roman-to-Integer.js) |
 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Easy | [longest-common-prefix.js](longest-common-prefix.js) |
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy | [valid-parentheses.js](valid-parentheses.js) |
+| 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy | [merge-two-sorted-lists.js](merge-two-sorted-lists.js) |
